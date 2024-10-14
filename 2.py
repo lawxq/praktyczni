@@ -8,11 +8,3 @@ if type(name)==type(secondname):
     list1 = ["Romana Mukhamadiieva"]
     if type(age) == int:
         print(int)
-
-
-
-
-
-
-
-dict = {1} (10,14), {2}(29 , 2), {3}(3,36), {4}(45,4), {5}(5,50), {6}(63,6),
