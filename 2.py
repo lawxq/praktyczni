@@ -5,6 +5,7 @@ age = 16
 list1 = [name]
 if type(name)==type(secondname):
     print(type(name))
-    list1 = name + secondname
+    list2 = name + secondname
+    print(list2)
     if type(age) == int:
         print(int)
